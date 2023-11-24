@@ -19,7 +19,7 @@ sum2 = addition(3, 4)
 # If, elif, else statements
 becaAwesome = True
 
-if becaAwesome == True:
+if becaAwesome:
     print("Beca is awesome")
 elif becaAwesome == "Hamburger":
     print("Why are you a hamburger Beca?")
